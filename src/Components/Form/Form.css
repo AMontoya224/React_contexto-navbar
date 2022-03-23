@@ -1,0 +1,14 @@
+
+.form{
+    margin: 50px;
+}
+
+.form label{
+    font-size: 40px;
+    margin: 50px;
+}
+
+.form input{
+    font-size: 40px;
+    margin: 10px;
+}

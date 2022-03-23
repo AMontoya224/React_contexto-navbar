@@ -1,0 +1,13 @@
+
+.nav{
+    background: darkcyan;
+    padding: 10px 50px;
+    text-align: right;
+}
+
+.nav h1{
+    color: white;
+    margin: 0;
+    font-size: 50px;
+    font-weight: 300;
+}
